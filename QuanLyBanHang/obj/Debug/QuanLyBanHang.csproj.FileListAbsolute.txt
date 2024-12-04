@@ -1,0 +1,15 @@
+C:\Users\nguye\source\repos\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe.config
+C:\Users\nguye\source\repos\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe
+C:\Users\nguye\source\repos\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.pdb
+C:\Users\nguye\source\repos\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.AssemblyReference.cache
+C:\Users\nguye\source\repos\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmHoaDonBan.resources
+C:\Users\nguye\source\repos\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+C:\Users\nguye\source\repos\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.GenerateResource.cache
+C:\Users\nguye\source\repos\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CoreCompileInputs.cache
+C:\Users\nguye\source\repos\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
+C:\Users\nguye\source\repos\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
+C:\Users\nguye\source\repos\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmDMNhanVien.resources
+C:\Users\nguye\source\repos\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmDMKhachHang.resources
+C:\Users\nguye\source\repos\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmTimKiemHoaDon.resources
+C:\Users\nguye\source\repos\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmDMHangHoa.resources
+C:\Users\nguye\source\repos\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmDanhMucChatLieu.resources
